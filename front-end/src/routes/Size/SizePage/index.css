@@ -1,0 +1,16 @@
+.pagination {
+  margin-top: 15px;
+  float: right;
+}
+
+.card {
+  background-color: aliceblue;
+}
+
+.ant-layout-footer {
+  text-align: center;
+}
+
+.table {
+  overflow: auto;
+}

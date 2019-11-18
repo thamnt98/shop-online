@@ -1,0 +1,13 @@
+.wrap {
+  background-image: url("./../assets/images/playmountainbg.gif");
+  background-repeat: no-repeet;
+  background-size: cover;
+}
+
+.logo {
+  text-align: center;
+}
+
+.button {
+  text-align: center;
+}

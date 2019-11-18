@@ -1,0 +1,9 @@
+.pagination{
+    float: right;
+    margin-top: 10px;
+}
+.buttonBack{
+    background-color: #038fde;
+    box-sizing: border-box;
+    color: white;
+}

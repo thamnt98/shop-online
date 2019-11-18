@@ -1,0 +1,17 @@
+.pagination{
+    float: right;
+    margin-top: 10px;
+}
+.buttonBack{
+    background-color: #038fde;
+    box-sizing: border-box;
+    color: white;
+}
+.style-card .ant-card-body{
+        padding: 0px;
+}
+.style-card .style-button-add{
+    margin: 15px;
+    background-color: #038fde;
+    color: white;
+}

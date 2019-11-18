@@ -1,0 +1,11 @@
+.ant-row {
+  display: flex;
+  justify-content: center;
+}
+.button {
+  margin-top: 20px;
+  margin-right: 15px;
+}
+.ant-layout-footer {
+  text-align: center;
+}
