@@ -1,0 +1,1 @@
+{"ast":null,"code":"\"use strict\";\n/* jslint esnext: true */\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n\nvar core_1 = require(\"./core\");\n\nvar en_1 = require(\"./en\");\n\ncore_1.default.__addLocaleData(en_1.default);\n\ncore_1.default.defaultLocale = 'en';\nexports.default = core_1.default;","map":null,"metadata":{},"sourceType":"script"}

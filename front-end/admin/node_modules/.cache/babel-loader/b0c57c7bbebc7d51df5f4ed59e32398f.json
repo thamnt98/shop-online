@@ -1,0 +1,1 @@
+{"ast":null,"code":"\"use strict\";\n\nexports.__esModule = true;\n\nvar ReactPlaceholder_1 = require(\"./ReactPlaceholder\");\n\nexports[\"default\"] = ReactPlaceholder_1[\"default\"];","map":null,"metadata":{},"sourceType":"script"}
