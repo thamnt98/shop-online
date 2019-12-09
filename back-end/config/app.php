@@ -80,7 +80,7 @@ return [
     |
     */
 
-    'locale' => 'en',
+    'locale' => 'vn',
 
     /*
     |--------------------------------------------------------------------------
@@ -165,7 +165,6 @@ return [
         /*
          * Package Service Providers...
          */
-        Barryvdh\Cors\ServiceProvider::class,
 
         /*
          * Application Service Providers...
