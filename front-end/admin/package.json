@@ -26,7 +26,7 @@
     "react-dnd": "^5.0.0",
     "react-dnd-html5-backend": "^5.0.1",
     "react-dom": "^16.4.1",
-    "react-draft-wysiwyg": "^1.12.13",
+    "react-draft-wysiwyg": "^1.14.6",
     "react-flip-move": "^3.0.2",
     "react-google-maps": "^9.4.5",
     "react-hot-loader": "^4.6.3",
